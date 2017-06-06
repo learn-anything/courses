@@ -1,4 +1,4 @@
-# Free and non free courses all can learn from 📝
+# Free courses all can learn from 📝
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting courses one can take to learn new things and discover new insights. 🔭
 
@@ -15,6 +15,7 @@ Pull requests are welcome. Thank you. 💙
 - [awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
+# Courses 📝
 
 # compilers
 
@@ -87,7 +88,7 @@ Pull requests are welcome. Thank you. 💙
 # operating systems
 
 
-## [15: how to make a computer operating system 📝 🐙](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+## [15: how to make a computer operating system 📝](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
 ## [operating system engineering 📝](https://pdos.csail.mit.edu/6.828/2016/schedule.html)
 
@@ -278,4 +279,6 @@ if you think this can be improved in any way
 ## [introduction to programming with matlab 📝](https://www.coursera.org/learn/matlab)
 
 ## [stanford c programming 📝](https://www.youtube.com/playlist?list=PLjn3WmBeabPOUzxcCkzk4jYMGRZMZ6ylF&app=desktop)
+
+
 
