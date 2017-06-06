@@ -1,4 +1,4 @@
-# Free courses all can learn from 📝
+# Free courses all can learn from 🚀
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting courses one can take to learn new things and discover new insights. 🔭
 
