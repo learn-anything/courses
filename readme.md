@@ -1,4 +1,7 @@
-# Free courses all can learn from 📝
+<h1 align="center"> Free courses all can learn from 📝 </h1>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting courses one can take to learn new things and discover new insights. 🔭
 
@@ -15,7 +18,7 @@ Pull requests are welcome. Thank you. 💙
 - [awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
-# Courses 
+<h1 align="center"> Courses </h1>
 
 # compilers
 
