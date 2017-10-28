@@ -1,4 +1,4 @@
-# Free courses all can learn from 📝[![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Free courses all can learn from 📝 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
 ## Description 📕
 Here is a curated list of all the interesting courses one can take to learn new things and discover new insights. 🔭
