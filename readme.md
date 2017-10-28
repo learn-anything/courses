@@ -138,10 +138,10 @@ Pull requests are welcome. Thank you. 💙
 ### Rust
 - [16: rust programming 📝](http://cis198-2016s.github.io/)
 
-## Scala
+### Scala
 - [functional programming principles in scala 📝](https://www.coursera.org/learn/progfun1)
 
-# Programming
+### Programming
 - [14: unix tools and scripting 📝](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
 - [05: mit structure and interpretation of computer programs 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
 - [16: mit software construction 📝](http://web.mit.edu/6.005/www/fa16/)
