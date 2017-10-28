@@ -1,26 +1,13 @@
-<h1 align="center"> Free courses all can learn from 📝 </h1>
+# Free courses all can learn from 📝 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-<div align="center">
-<a href="https://www.patreon.com/learnanything">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/learn-anything/courses/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
-
-
-<h1 align="center"> Description 📕</h1>
-
-
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting courses one can take to learn new things and discover new insights. 🔭
+## Description 📕
+Here is a curated list of all the interesting courses one can take to learn new things and discover new insights. 🔭
 
 The number before the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. 
 
 Pull requests are welcome. Thank you. 💙
 
-#### Related websites / repositories 
-
+### Related websites / repositories 
 - [awesome courses](https://github.com/prakhar1989/awesome-courses)
 - [self taught computer sciece](https://github.com/prakhar1989/awesome-courses)
 - [data science courses](https://github.com/DataScienceSpecialization/courses)
@@ -28,166 +15,87 @@ Pull requests are welcome. Thank you. 💙
 - [awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
-<h1 align="center"> Courses </h1>
-
-# compilers
-
-
-## [16: principles of compiler design 📝](https://www.cs.swarthmore.edu/%7Ejpolitz/cs75/s16/s_schedule.html)
-
-## [16: stanford compiler construction 📝](https://web.stanford.edu/class/cs143/)
-
-
-# statistics
-
-
-## [introduction to probability - the science of uncertainty 📝](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
-
-## [10: mit probabilistic systems analysis and applied probability 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
-
-## [statistics 110 📝](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-
-
-# iOS
-
-
-## [17: developing iOS 10 apps wth Swift  📝](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
-
-
-# investing
-
-
-## [computational investing 📝](https://www.coursera.org/learn/computational-investing)
-
-
-# security
-
-
-## [13: computer and network security 📝](https://courseware.stanford.edu/pg/courses/lectures/349991)
-
-
-# business
-
-
-## [gamification 📝](https://www.coursera.org/learn/gamification)
-
-
-# crypto
-
-
-## [stanford cryptography I 📝](https://www.coursera.org/learn/crypto)
-
-## [17: stanford cryptography II 📝](https://www.coursera.org/learn/crypto2)
-
-
-# web
-
-
-## [15: cutting-edge web technologies 📝](http://inst.eecs.berkeley.edu/%7Ecs294-101/sp15/)
-
-
-# gamedev
-
-
-## [HTML5 game development 📝](https://www.udacity.com/course/html5-game-development--cs255)
-
-
-# chemistry
-
-
-## [bioinformatics specialisation 📝](https://www.coursera.org/specializations/bioinformatics)
-
-
-# operating systems
-
-
-## [15: how to make a computer operating system 📝](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
-
-## [operating system engineering 📝](https://pdos.csail.mit.edu/6.828/2016/schedule.html)
-
-## [computer science from the bottom up 📝](http://www.bottomupcs.com/)
-
-
-# algorithms
-
-
-## [10: algorithms 📝](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/)
-
-taught by Manuel Blum who has a Turing Award due to his contributions to algorithms
-
-## [12: design and analysis of algorithms 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/)
-
-## [12: introduction to programming contests 📝](http://web.stanford.edu/class/cs97si/)
-
-## [14: mit advanced data structures 📝](http://courses.csail.mit.edu/6.851/spring14/index.html)
-
-## [14: evolutionary computation 📝](https://courses2.cit.cornell.edu/cs5724/)
-
-## [16: data structures 📝](http://datastructur.es/sp16/)
-
-## [17: data structures 📝](http://datastructur.es/sp17/)
-
-## [algorithms: part 1 📝](https://www.coursera.org/learn/algorithms-part1/home/welcome)
-
-## [mit introduction to algorithms 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
-
-## [algorithms: part 2 📝](https://www.coursera.org/learn/algorithms-part2)
-
-## [algorithmic thinking 📝](https://www.coursera.org/learn/algorithmic-thinking-1)
-
-## [algorithms specialisation 📝](https://www.coursera.org/specializations/algorithms)
-
-
-# math
-
-
-## [04: mit multivariable control systems 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-245-multivariable-control-systems-spring-2004/)
-
-## [06: mit singlevariable calculus 📝](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-
-## [07: mit multivariable calculus 📝](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-
-## [10: mit linear algebra 📝](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-
-## [14: nonlinear dynamics and chaos 📝](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
-
-## [14: abstract algebra 📝](https://www.math.upenn.edu/~ted/371F14/math371.html)
-
-## [16: stanford mathematical foundations of computing 📝](http://web.stanford.edu/class/cs103/)
-
-
-# networking
-
-
-## [12: introduction to EECS II: digital communication systems 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm)
-
-## [introduction to computer networking 📝](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
-
-
-# computer vision
-
-
-## [12: programming computer vision with python 📝](http://programmingcomputervision.com/)
-
-## [15: introduction to computer vision 📝](http://www.cs.cornell.edu/courses/cs4670/2015sp/lectures/lectures.html)
-
-## [computer vision 📝](http://crcv.ucf.edu/courses/CAP5415/)
-
-
-# ai
-
-
-## [10: mit artificial intelligence 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
-
-## [11: the society of mind 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
-
-## [14: berkeley intro to ai 📝](http://ai.berkeley.edu/home.html)
-
-
-# machine learning
-
-
-## [12: learning from data 📝](https://work.caltech.edu/telecourse.html)
+## Courses
+### Compilers
+- [16: principles of compiler design 📝](https://www.cs.swarthmore.edu/%7Ejpolitz/cs75/s16/s_schedule.html)
+- [16: stanford compiler construction 📝](https://web.stanford.edu/class/cs143/)
+
+### Statistics
+- [introduction to probability - the science of uncertainty 📝](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+- [10: mit probabilistic systems analysis and applied probability 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
+- [statistics 110 📝](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+### iOS
+- [17: developing iOS 10 apps wth Swift  📝](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
+
+
+### Investing
+- [computational investing 📝](https://www.coursera.org/learn/computational-investing)
+
+### Security
+- [13: computer and network security 📝](https://courseware.stanford.edu/pg/courses/lectures/349991)
+
+### Business
+- [gamification 📝](https://www.coursera.org/learn/gamification)
+
+### Crypto
+- [stanford cryptography I 📝](https://www.coursera.org/learn/crypto)
+- [17: stanford cryptography II 📝](https://www.coursera.org/learn/crypto2)
+
+### Web
+- [15: cutting-edge web technologies 📝](http://inst.eecs.berkeley.edu/%7Ecs294-101/sp15/)
+
+### Gamedev
+- [HTML5 game development 📝](https://www.udacity.com/course/html5-game-development--cs255)
+
+### Chemistry
+- [bioinformatics specialisation 📝](https://www.coursera.org/specializations/bioinformatics)
+
+### Operating systems
+- [15: how to make a computer operating system 📝](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [operating system engineering 📝](https://pdos.csail.mit.edu/6.828/2016/schedule.html)
+- [computer science from the bottom up 📝](http://www.bottomupcs.com/)
+
+### Algorithms
+- [10: algorithms 📝](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/)
+	- taught by Manuel Blum who has a Turing Award due to his contributions to algorithms
+- [12: design and analysis of algorithms 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/)
+- [12: introduction to programming contests 📝](http://web.stanford.edu/class/cs97si/)
+- [14: mit advanced data structures 📝](http://courses.csail.mit.edu/6.851/spring14/index.html)
+- [14: evolutionary computation 📝](https://courses2.cit.cornell.edu/cs5724/)
+- [16: data structures 📝](http://datastructur.es/sp16/)
+- [17: data structures 📝](http://datastructur.es/sp17/)
+- [algorithms: part 1 📝](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+- [mit introduction to algorithms 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [algorithms: part 2 📝](https://www.coursera.org/learn/algorithms-part2)
+- [algorithmic thinking 📝](https://www.coursera.org/learn/algorithmic-thinking-1)
+- [algorithms specialisation 📝](https://www.coursera.org/specializations/algorithms)
+
+### Math
+- [04: mit multivariable control systems 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-245-multivariable-control-systems-spring-2004/)
+- [06: mit singlevariable calculus 📝](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+- [07: mit multivariable calculus 📝](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+- [10: mit linear algebra 📝](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [14: nonlinear dynamics and chaos 📝](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+- [14: abstract algebra 📝](https://www.math.upenn.edu/~ted/371F14/math371.html)
+- [16: stanford mathematical foundations of computing 📝](http://web.stanford.edu/class/cs103/)
+
+### Networking
+- [12: introduction to EECS II: digital communication systems 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm)
+- [introduction to computer networking 📝](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+
+### Computer vision
+- [12: programming computer vision with python 📝](http://programmingcomputervision.com/)
+- [15: introduction to computer vision 📝](http://www.cs.cornell.edu/courses/cs4670/2015sp/lectures/lectures.html)
+- [computer vision 📝](http://crcv.ucf.edu/courses/CAP5415/)
+
+### AI
+- [10: mit artificial intelligence 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- [11: the society of mind 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
+- [14: berkeley intro to ai 📝](http://ai.berkeley.edu/home.html)
+
+### Machine learning
+- [12: learning from data 📝](https://work.caltech.edu/telecourse.html)
 
 ## [15: machine learning for data science 📝](http://www.cs.cornell.edu/courses/cs4786/2015sp/index.htm)
 
