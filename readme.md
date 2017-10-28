@@ -110,7 +110,7 @@ Pull requests are welcome. Thank you. 💙
 - [13: information retrieval](http://www.cs.cornell.edu/courses/cs4300/2013fa/)
 - [14: software foundations](http://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html)
 - [15: great ideas in computer architecture](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/)
-- [lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+  - [lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 - [lecture notes](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Calendar)
 - [course resources](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
 - [old exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
@@ -121,7 +121,7 @@ Pull requests are welcome. Thank you. 💙
 ### Deep Learning
 - [15: deep learning at oxford](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 - [15: ucl reinforcement learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-- [lectures 👀](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
+  - [lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [17: oxford cs deep nlp](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [17: deep learning](http://deeplearning.cs.cmu.edu/)
 - [17: berkeley deep reinforcement learning](http://rll.berkeley.edu/deeprlcourse/)
