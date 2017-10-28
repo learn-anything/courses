@@ -1,7 +1,7 @@
 # Free courses all can learn from 📝 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
 ## Description 📕
-Here is a curated list of all the interesting courses one can take to learn new things and discover new insights. 🔭
+Here is a curated list of all the interesting courses one can take to learn new things and discover new insights. 
 
 The number before the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. 
 
