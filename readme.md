@@ -96,58 +96,31 @@ Pull requests are welcome. Thank you. 💙
 
 ### Machine learning
 - [12: learning from data 📝](https://work.caltech.edu/telecourse.html)
+- [15: machine learning for data science 📝](http://www.cs.cornell.edu/courses/cs4786/2015sp/index.htm)
+- [15: introduction to matrix methods 📝](http://stanford.edu/class/ee103/)
+- [15: statistical learning 📝](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
+- [17: tensorflow for deep learning research 📝](http://web.stanford.edu/class/cs20si/index.html)
+- [coursera machine learning 📝](https://www.coursera.org/learn/machine-learning)
+  - [notes 🐙](https://github.com/1094401996/machine-learning-coursera)
+- [artificial intelligence for robotics 📝](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+- [neural networks for machine learning 📝](https://www.coursera.org/learn/neural-networks)
 
-## [15: machine learning for data science 📝](http://www.cs.cornell.edu/courses/cs4786/2015sp/index.htm)
-
-## [15: introduction to matrix methods 📝](http://stanford.edu/class/ee103/)
-
-## [15: statistical learning 📝](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
-
-## [17: tensorflow for deep learning research 📝](http://web.stanford.edu/class/cs20si/index.html)
-
-## [coursera machine learning 📝](https://www.coursera.org/learn/machine-learning)
-
-- [notes 🐙](https://github.com/1094401996/machine-learning-coursera)
-
-## [artificial intelligence for robotics 📝](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
-
-## [neural networks for machine learning 📝](https://www.coursera.org/learn/neural-networks)
-
-
-# cs
-
-if you think this can be improved in any way  
-  
-[please say 💙](https://github.com/nikitavoloboev/learn-anything/issues/923)
-
-
-## [08: computational complexity 📝](https://people.eecs.berkeley.edu/~luca/cs278-08/)
-
-## [13: information retrieval 📝](http://www.cs.cornell.edu/courses/cs4300/2013fa/)
-
-## [14: software foundations 📝](http://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html)
-
-## [15: great ideas in computer architecture 📝](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/)
-
+### Computer Science
+- [08: computational complexity 📝](https://people.eecs.berkeley.edu/~luca/cs278-08/)
+- [13: information retrieval 📝](http://www.cs.cornell.edu/courses/cs4300/2013fa/)
+- [14: software foundations 📝](http://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html)
+- [15: great ideas in computer architecture 📝](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/)
 - [lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
-
 - [lecture notes](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Calendar)
-
 - [course resources](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
-
 - [old exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
-
-## [mit great ideas in theoretical computer science 📝](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
-
-## [computer science 101 📝](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
-
-## [data structures 📝](https://www.coursera.org/learn/data-structures)
+- [mit great ideas in theoretical computer science 📝](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
+- [computer science 101 📝](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
+- [data structures 📝](https://www.coursera.org/learn/data-structures)
 
 
-# deep learning
-
-
-## [15: deep learning at oxford 📝](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+### Deep Learning
+-[15: deep learning at oxford 📝](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
 ## [15: ucl reinforcement learning 📝](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
