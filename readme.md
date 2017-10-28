@@ -120,59 +120,32 @@ Pull requests are welcome. Thank you. 💙
 
 
 ### Deep Learning
--[15: deep learning at oxford 📝](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-
-## [15: ucl reinforcement learning 📝](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-
+- [15: deep learning at oxford 📝](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+- [15: ucl reinforcement learning 📝](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [lectures 👀](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
-
-## [17: oxford cs deep nlp 📝](https://github.com/oxford-cs-deepnlp-2017/lectures)
-
-## [17: deep learning 📝](http://deeplearning.cs.cmu.edu/)
-
-## [17: berkeley deep reinforcement learning 📝](http://rll.berkeley.edu/deeprlcourse/)
-
-## [17: stanford natural language processing with deep learning 📝](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-
-## [stanford deep learning for natural language processing 📝](http://cs224d.stanford.edu/syllabus.html)
-
-## [stanford convolutional neural networks for visual recognition 📝](http://cs231n.stanford.edu/syllabus.html)
+- [17: oxford cs deep nlp 📝](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [17: deep learning 📝](http://deeplearning.cs.cmu.edu/)
+- [17: berkeley deep reinforcement learning 📝](http://rll.berkeley.edu/deeprlcourse/)
+- [17: stanford natural language processing with deep learning 📝](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+- [stanford deep learning for natural language processing 📝](http://cs224d.stanford.edu/syllabus.html)
+- [stanford convolutional neural networks for visual recognition 📝](http://cs231n.stanford.edu/syllabus.html)
 
 
-# programming languages
-
-
-## haskell
-
+### Haskell
 - [14: stanford functional systems in haskell 📝](http://www.scs.stanford.edu/14sp-cs240h/)
-
 - [16: introduction to haskell 📝](http://www.seas.upenn.edu/%7Ecis194/spring13/)
 
-## rust
-
+### Rust
 - [16: rust programming 📝](http://cis198-2016s.github.io/)
 
-## scala
-
+## Scala
 - [functional programming principles in scala 📝](https://www.coursera.org/learn/progfun1)
 
-
-# programming
-
-
-## [14: unix tools and scripting 📝](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
-
-## [05: mit structure and interpretation of computer programs 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
-
-## [16: mit software construction 📝](http://web.mit.edu/6.005/www/fa16/)
-
-## [17: structure and interpretation of computer programs (in python) 📝](https://cs61a.org/)
-
-## [build a modern computer from first principles: from nand to tetris  📝](https://www.coursera.org/learn/build-a-computer)
-
-## [introduction to programming with matlab 📝](https://www.coursera.org/learn/matlab)
-
-## [stanford c programming 📝](https://www.youtube.com/playlist?list=PLjn3WmBeabPOUzxcCkzk4jYMGRZMZ6ylF&app=desktop)
-
-
-
+# Programming
+- [14: unix tools and scripting 📝](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
+- [05: mit structure and interpretation of computer programs 📝](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
+- [16: mit software construction 📝](http://web.mit.edu/6.005/www/fa16/)
+- [17: structure and interpretation of computer programs (in python) 📝](https://cs61a.org/)
+- [build a modern computer from first principles: from nand to tetris  📝](https://www.coursera.org/learn/build-a-computer)
+- [introduction to programming with matlab 📝](https://www.coursera.org/learn/matlab)
+- [stanford c programming 📝](https://www.youtube.com/playlist?list=PLjn3WmBeabPOUzxcCkzk4jYMGRZMZ6ylF&app=desktop)
