@@ -118,7 +118,6 @@ Pull requests are welcome. Thank you. 💙
 - [computer science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - [data structures](https://www.coursera.org/learn/data-structures)
 
-
 ### Deep Learning
 - [15: deep learning at oxford](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 - [15: ucl reinforcement learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
@@ -129,7 +128,6 @@ Pull requests are welcome. Thank you. 💙
 - [17: stanford natural language processing with deep learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - [stanford deep learning for natural language processing](http://cs224d.stanford.edu/syllabus.html)
 - [stanford convolutional neural networks for visual recognition](http://cs231n.stanford.edu/syllabus.html)
-
 
 ### Haskell
 - [14: stanford functional systems in haskell](http://www.scs.stanford.edu/14sp-cs240h/)
