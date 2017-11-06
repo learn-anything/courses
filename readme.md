@@ -1,13 +1,12 @@
-# Free courses all can learn from 📝 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Courses [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-## Description 📕
-Here is a curated list of all the interesting courses one can take to learn new things and discover new insights. 
+This is a curated list of all the interesting courses.
 
 The number before the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. 
 
-Pull requests are welcome. Thank you. 💙
+Pull requests are welcome. Thank you. 💜
 
-### Related websites / repositories 
+## Related websites / repositories 
 - [awesome courses](https://github.com/prakhar1989/awesome-courses)
 - [self taught computer sciece](https://github.com/prakhar1989/awesome-courses)
 - [data science courses](https://github.com/DataScienceSpecialization/courses)
@@ -147,3 +146,6 @@ Pull requests are welcome. Thank you. 💙
 - [build a modern computer from first principles: from nand to tetris ](https://www.coursera.org/learn/build-a-computer)
 - [introduction to programming with matlab](https://www.coursera.org/learn/matlab)
 - [stanford c programming](https://www.youtube.com/playlist?list=PLjn3WmBeabPOUzxcCkzk4jYMGRZMZ6ylF&app=desktop)
+
+## Contribute 
+If you found a course that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
