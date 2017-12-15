@@ -78,7 +78,7 @@ The number after the course name stands for the year in which the course was mad
 - [Algorithms (2010)](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) - Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms.
 - [Design and analysis of algorithms (2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/)
 - [Introduction to programming contests (2012)](http://web.stanford.edu/class/cs97si/)
-- [Mit advanced data structures (2014)](http://courses.csail.mit.edu/6.851/spring14/index.html)
+- [MIT advanced data structures (2014)](http://courses.csail.mit.edu/6.851/spring14/index.html)
 - [Evolutionary computation (2014)](https://courses2.cit.cornell.edu/cs5724/)
 - [Data structures (2016)](http://datastructur.es/sp16/)
 - [Data structures (2017)](http://datastructur.es/sp17/)
@@ -89,10 +89,10 @@ The number after the course name stands for the year in which the course was mad
 - [Algorithms specialisation](https://www.coursera.org/specializations/algorithms)
 
 ## Math
-- [Mit multivariable control systems (2004)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-245-multivariable-control-systems-spring-2004/)
-- [Mit singlevariable calculus (2006)](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-- [Mit multivariable calculus (2007)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-- [Mit linear algebra (2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [MIT multivariable control systems (2004)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-245-multivariable-control-systems-spring-2004/)
+- [MIT singlevariable calculus (2006)](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+- [MIT multivariable calculus (2007)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+- [MIT linear algebra (2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [Nonlinear dynamics and chaos (2014)](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
 - [Abstract algebra (2014)](https://www.math.upenn.edu/~ted/371F14/math371.html)
 - [Stanford mathematical foundations of computing (2016)](http://web.stanford.edu/class/cs103/)
@@ -107,7 +107,7 @@ The number after the course name stands for the year in which the course was mad
 - [Computer vision](http://crcv.ucf.edu/courses/CAP5415/)
 
 ## Artificial Intelligence
-- [Mit artificial intelligence (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
+- [MIT artificial intelligence (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [The society of mind (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm)
 - [Berkeley intro to ai (2014)](http://ai.berkeley.edu/home.html)
 
@@ -158,8 +158,8 @@ The number after the course name stands for the year in which the course was mad
 
 ## Programming
 - [Unix tools and scripting (2014)](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
-- [Mit structure and interpretation of computer programs (2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
-- [Mit software construction (2016)](http://web.mit.edu/6.005/www/fa16/)
+- [MIT structure and interpretation of computer programs (2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
+- [MIT software construction (2016)](http://web.mit.edu/6.005/www/fa16/)
 - [Structure and interpretation of computer programs (in Python) (2017)](https://cs61a.org/)
 - [Build a modern computer from first principles: from nand to tetris ](https://www.coursera.org/learn/build-a-computer)
 - [Introduction to programming with matlab](https://www.coursera.org/learn/matlab)
