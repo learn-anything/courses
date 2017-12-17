@@ -31,8 +31,6 @@
 - [Related](#related)
 
 ## Key
-The number before the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. 
-
 The number after the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. 
 
 ## Compilers
