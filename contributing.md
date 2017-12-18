@@ -1,10 +1,12 @@
 # Contribution Guidelines
 Ensure your pull request adheres to the following guidelines:
 - Search included courses before adding a new one, as yours may be a duplicate.
-- Every course addition should follow the same format.
-	1. The course should be put into its appropriate category (Pick the one you think is closest if you are not sure).
+- Use the following format: `[Course name](link) (Year) - Description.`
+- The course should be put into its appropriate category (Pick the one you think is closest if you are not sure).
 - If you want to add notes to a course, add it below the course as subdashed point.
-- Please add a short description of the course after the course name where it is appropriate.
+- Start the description with a capital and end with a full stop/period.
+- Don't start the description with `A` or `An`.
+- New categories or improvements to the existing categorisation are welcome.
 - Check your spelling and grammar.
 - You can also add other related websites and repositories in the end.
 
