@@ -69,6 +69,7 @@ The number after the course name stands for the year in which the course was mad
 - [How to make a computer operating system (2015)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [Operating system engineering](https://pdos.csail.mit.edu/6.828/2016/schedule.html)
 - [Computer science from the bottom up](http://www.bottomupcs.com/)
+- [Computer Science 162](https://www.youtube.com/watch?v=feAOZuID1HM&list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
 
 ## Algorithms
 - [Algorithms (2010)](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) - Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms.
