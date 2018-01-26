@@ -46,6 +46,7 @@ The number after the course name stands for the year in which the course was mad
 
 ## Security
 - [Computer and network security (2013)](https://courseware.stanford.edu/pg/courses/lectures/349991)
+- [Hacker101 (2018)](https://github.com/Hacker0x01/hacker101) - Free class for web security.
 
 ## Business
 - [Gamification](https://www.coursera.org/learn/gamification)
