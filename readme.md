@@ -128,15 +128,12 @@ The number after the course name stands for the year in which the course was mad
 - [Software foundations (2014)](http://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html)
 - [Great ideas in computer architecture (2015)](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/)
   - [Lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
-- [Lecture notes](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Calendar)
-- [Course resources](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/#Resources)
-- [Old exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
 - [MIT great ideas in theoretical computer science](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
 - [Computer science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - [Data structures](https://www.coursera.org/learn/data-structures)
 
 ## Deep Learning
-- [Deep learning at oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+- [Deep learning at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 - [Ucl reinforcement learning (2015)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
   - [Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [Oxford cs deep nlp (2017)](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -149,7 +146,7 @@ The number after the course name stands for the year in which the course was mad
 ## Haskell
 - [Stanford functional systems in haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/)
 - [Introduction to haskell (2016)](http://www.seas.upenn.edu/%7Ecis194/spring13/)
-- [Functional programming lectures from ITMO uni (2017)](https://github.com/jagajaga/FP-Course-ITMO)
+- [Haskell ITMO (2017)](https://github.com/jagajaga/FP-Course-ITMO)
 
 ## Rust
 - [Rust programming (2016)](http://cis198-2016s.github.io/)
