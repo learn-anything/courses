@@ -86,6 +86,9 @@ The number after the course name stands for the year in which the course was mad
 - [Algorithmic thinking](https://www.coursera.org/learn/algorithmic-thinking-1)
 - [Algorithms specialisation](https://www.coursera.org/specializations/algorithms)
 
+## Vim
+- [Vim valley](https://vimvalley.com/)
+
 ## Math
 - [MIT multivariable control systems (2004)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-245-multivariable-control-systems-spring-2004/)
 - [MIT singlevariable calculus (2006)](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
