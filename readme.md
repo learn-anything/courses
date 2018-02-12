@@ -1,10 +1,8 @@
 # Interesting Courses [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
-## Key
 The number after the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. If no year was found for the course, it is put in the end of the list.
 
-## Contents
 - [Compilers](#compilers)
 - [Statistics](#statistics)
 - [iOS](#ios)
@@ -173,6 +171,9 @@ The number after the course name stands for the year in which the course was mad
 - [CS video courses](https://github.com/Developer-Y/cs-video-courses)
 - [Awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
+
+## Contributing
+See [contributing.md](contributing.md)
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
