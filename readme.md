@@ -173,7 +173,7 @@ The number after the course name stands for the year in which the course was mad
 - [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 ## Contributing
-See [contributing.md](contributing.md)
+See [contributing.md](contributing.md/#contribution-guidelines)
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
