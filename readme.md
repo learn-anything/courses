@@ -1,5 +1,5 @@
-# Interesting Courses [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines#readme) before contributing.*
+# Interesting Courses [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 The number after the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. If no year was found for the course, it is put in the end of the list.
 
@@ -173,7 +173,7 @@ The number after the course name stands for the year in which the course was mad
 - [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
+See [contribution guidelines](contributing.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
