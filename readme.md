@@ -3,6 +3,7 @@
 
 The number after the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. If no year was found for the course, it is put in the end of the list.
 
+##### Contents
 - [Compilers](#compilers)
 - [Statistics](#statistics)
 - [iOS](#ios)
