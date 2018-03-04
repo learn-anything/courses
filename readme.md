@@ -16,6 +16,7 @@ The number after the course name stands for the year in which the course was mad
 - [Chemistry](#chemistry)
 - [Operating systems](#operating-systems)
 - [Algorithms](#algorithms)
+- [Functional programming](#functional-programming)
 - [Math](#math)
 - [Networking](#networking)
 - [Computer vision](#computer-vision)
@@ -84,6 +85,9 @@ The number after the course name stands for the year in which the course was mad
 - [Algorithms: Part 2](https://www.coursera.org/learn/algorithms-part2)
 - [Algorithmic thinking](https://www.coursera.org/learn/algorithmic-thinking-1)
 - [Algorithms specialisation](https://www.coursera.org/specializations/algorithms)
+
+## Functional programming
+- [Course in functional programming by KTH](https://github.com/ID1019/functional-programming)
 
 ## Vim
 - [Vim valley](https://vimvalley.com/)
