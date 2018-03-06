@@ -56,6 +56,9 @@ The number after the course name stands for the year in which the course was mad
 - [Stanford cryptography I](https://www.coursera.org/learn/crypto)
 - [Stanford cryptography II (2017)](https://www.coursera.org/learn/crypto2)
 
+## Cryptocurrency
+- [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+
 ## Web Development
 - [Cutting-edge web technologies (2015)](http://inst.eecs.berkeley.edu/%7Ecs294-101/sp15/)
 - [Interactive Flexbox course (2018)](https://scrimba.com/g/gflexbox)
