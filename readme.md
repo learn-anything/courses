@@ -174,12 +174,11 @@ The number after the course name stands for the year in which the course was mad
 - [Stanford C Programming](https://www.youtube.com/playlist?list=PLjn3WmBeabPOUzxcCkzk4jYMGRZMZ6ylF&app=desktop)
 
 ## Related
-- [Awesome courses](https://github.com/prakhar1989/awesome-courses)
-- [Self taught computer sciece](https://github.com/prakhar1989/awesome-courses)
-- [Data science courses](https://github.com/DataScienceSpecialization/courses)
-- [CS video courses](https://github.com/Developer-Y/cs-video-courses)
-- [Awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- [Awesome courses](https://github.com/prakhar1989/awesome-courses#readme)
+- [Data science courses](https://github.com/DataScienceSpecialization/courses#readme)
+- [CS video courses](https://github.com/Developer-Y/cs-video-courses#readme)
+- [Awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
