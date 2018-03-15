@@ -161,6 +161,9 @@ The number after the course name stands for the year in which the course was mad
 ## Rust
 - [Rust programming (2016)](http://cis198-2016s.github.io/)
 
+## Swift
+- [Hacking with Swift (2018)](https://www.hackingwithswift.com/read)
+
 ## Scala
 - [Functional programming principles in scala](https://www.coursera.org/learn/progfun1)
 
