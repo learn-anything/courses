@@ -128,6 +128,7 @@ The number after the course name stands for the year in which the course was mad
 - [Practical Deep Learning For Coders (2018)](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math.
 - [Introduction to Deep Learning (2018)](http://introtodeeplearning.com/) - Introductory course on deep learning algorithms and their applications.
 - [Machine Learning Crash Course (2018)](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning.
+- [Mathematics of Deep Learning, NYU, Spring (2018)](https://joanbruna.github.io/MathsDL-spring18/)
 - [Coursera machine learning](https://www.coursera.org/learn/machine-learning)
   - [Notes](https://github.com/1094401996/machine-learning-coursera)
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
