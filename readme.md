@@ -64,6 +64,9 @@ The number after the course name stands for the year in which the course was mad
 - [Cutting-edge web technologies (2015)](http://inst.eecs.berkeley.edu/%7Ecs294-101/sp15/)
 - [Interactive Flexbox course (2018)](https://scrimba.com/g/gflexbox)
 
+## React
+- [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16)
+
 ## Game development
 - [HTML5 game development](https://www.udacity.com/course/html5-game-development--cs255)
 
