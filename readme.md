@@ -144,6 +144,7 @@ The number after the course name stands for the year in which the course was mad
 - [Software foundations (2014)](http://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html)
 - [Great ideas in computer architecture (2015)](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/)
   - [Lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+- [Quantum Information Science II: Efficient Quantum Computing - fault tolerance and complexity (2018)](https://www.edx.org/course/efficient-quantum-computing-fault-tolerance-and-complexity)
 - [MIT great ideas in theoretical computer science](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
 - [Computer science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - [Data structures](https://www.coursera.org/learn/data-structures)
