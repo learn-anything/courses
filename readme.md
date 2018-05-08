@@ -140,6 +140,7 @@ The number after the course name stands for the year in which the course was mad
 
 ## Computer Science
 - [Computational complexity (2008)](https://people.eecs.berkeley.edu/~luca/cs278-08/)
+- [The art of recursion (2012)](http://www.cis.upenn.edu/~cis39903/)
 - [Information retrieval (2013)](http://www.cs.cornell.edu/courses/cs4300/2013fa/)
 - [Software foundations (2014)](http://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html)
 - [Great ideas in computer architecture (2015)](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/)
