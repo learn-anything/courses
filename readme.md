@@ -164,6 +164,7 @@ The number after the course name stands for the year in which the course was mad
 ## Haskell
 - [Stanford functional systems in haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/)
 - [Introduction to haskell (2016)](http://www.seas.upenn.edu/%7Ecis194/spring13/)
+- [Advanced Programming (2017)](https://www.seas.upenn.edu/~cis552/current/index.html)
 - [Haskell ITMO (2017)](https://github.com/jagajaga/FP-Course-ITMO)
 
 ## Rust
