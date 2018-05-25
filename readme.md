@@ -66,6 +66,8 @@ The number after the course name stands for the year in which the course was mad
 
 ## React
 - [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16)
+- [Building React Applications with Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ## Game development
 - [HTML5 game development](https://www.udacity.com/course/html5-game-development--cs255)
