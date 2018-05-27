@@ -139,6 +139,7 @@ The number after the course name stands for the year in which the course was mad
   - [Notes](https://github.com/1094401996/machine-learning-coursera)
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Neural networks for machine learning](https://www.coursera.org/learn/neural-networks)
+- [Machine learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos#readme)
 
 ## Computer Science
 - [Computational complexity (2008)](https://people.eecs.berkeley.edu/~luca/cs278-08/)
