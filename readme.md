@@ -19,6 +19,7 @@ The number after the course name stands for the year in which the course was mad
 - [Functional programming](#functional-programming)
 - [Math](#math)
 - [Networking](#networking)
+- [Neuroscience](#neuroscience)
 - [Computer vision](#computer-vision)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Machine learning](#machine-learning)
@@ -110,6 +111,12 @@ The number after the course name stands for the year in which the course was mad
 - [Abstract algebra (2014)](https://www.math.upenn.edu/~ted/371F14/math371.html)
 - [Stanford mathematical foundations of computing (2016)](http://web.stanford.edu/class/cs103/)
 - [MIT multivariable calculus by Prof. Denis Auroux](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+
+## Discrete math
+- [Discrete Mathematics and Probability Theory](http://www-inst.eecs.berkeley.edu/%7Ecs70/archives.html)
+
+## Neuroscience
+- [The Human Brain](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain)
 
 ## Networking
 - [Introduction to EECS II: digital communication systems (2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm)
