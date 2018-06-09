@@ -67,6 +67,7 @@ The number after the course name stands for the year in which the course was mad
 
 ## React
 - [Advanced React Patterns (2017)](https://github.com/kentcdodds/advanced-react-patterns)
+- [React Holiday (2017)](https://react.holiday/) - React through examples.
 - [Beginner's Guide to ReactJS (2018)](https://github.com/eggheadio-projects/the-beginner-s-guide-to-reactjs)
 - [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16)
 - [Building React Applications with Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
