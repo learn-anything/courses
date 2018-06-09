@@ -66,6 +66,7 @@ The number after the course name stands for the year in which the course was mad
 - [Interactive Flexbox course (2018)](https://scrimba.com/g/gflexbox)
 
 ## React
+- [Advanced React Patterns (2017)](https://github.com/kentcdodds/advanced-react-patterns)
 - [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16)
 - [Building React Applications with Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
