@@ -150,6 +150,7 @@ The number after the course name stands for the year in which the course was mad
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Neural networks for machine learning](https://www.coursera.org/learn/neural-networks)
 - [Machine learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos#readme)
+- [Open Machine Learning Course](https://github.com/Yorko/mlcourse_open) with [articles](https://medium.com/open-machine-learning-course) on Medium
 
 ## Computer Science
 - [Computational complexity (2008)](https://people.eecs.berkeley.edu/~luca/cs278-08/)
