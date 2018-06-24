@@ -18,6 +18,7 @@ The number after the course name stands for the year in which the course was mad
 - [Algorithms](#algorithms)
 - [Functional programming](#functional-programming)
 - [Math](#math)
+- [Type theory](#type-theory)
 - [Networking](#networking)
 - [Neuroscience](#neuroscience)
 - [Computer vision](#computer-vision)
@@ -114,6 +115,9 @@ The number after the course name stands for the year in which the course was mad
 - [Abstract algebra (2014)](https://www.math.upenn.edu/~ted/371F14/math371.html)
 - [Stanford mathematical foundations of computing (2016)](http://web.stanford.edu/class/cs103/)
 - [MIT multivariable calculus by Prof. Denis Auroux](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+
+## Type theory
+- [Homotopy Type Theory (2014)](https://www.cs.cmu.edu/%7Erwh/courses/hott/)
 
 ## Discrete math
 - [Discrete Mathematics and Probability Theory](http://www-inst.eecs.berkeley.edu/%7Ecs70/archives.html)
