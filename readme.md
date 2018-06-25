@@ -5,7 +5,6 @@ The number after the course name stands for the year in which the course was mad
 
 ##### Contents
 - [Compilers](#compilers)
-- [Statistics](#statistics)
 - [iOS](#ios)
 - [Investing](#investing)
 - [Security](#security)
@@ -18,6 +17,7 @@ The number after the course name stands for the year in which the course was mad
 - [Algorithms](#algorithms)
 - [Functional programming](#functional-programming)
 - [Math](#math)
+- [Statistics](#statistics)
 - [Type theory](#type-theory)
 - [Networking](#networking)
 - [Neuroscience](#neuroscience)
@@ -36,11 +36,6 @@ The number after the course name stands for the year in which the course was mad
 ## Compilers
 - [Principles of compiler design (2016)](https://www.cs.swarthmore.edu/%7Ejpolitz/cs75/s16/s_schedule.html)
 - [Stanford compiler construction (2016)](https://web.stanford.edu/class/cs143/)
-
-## Statistics
-- [Introduction to probability - the science of uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
-- [MIT probabilistic systems analysis and applied probability (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
-- [Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 
 ## iOS
 - [Developing iOS 10 apps wth Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
@@ -115,6 +110,12 @@ The number after the course name stands for the year in which the course was mad
 - [Abstract algebra (2014)](https://www.math.upenn.edu/~ted/371F14/math371.html)
 - [Stanford mathematical foundations of computing (2016)](http://web.stanford.edu/class/cs103/)
 - [MIT multivariable calculus by Prof. Denis Auroux](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+
+## Statistics
+- [Statistical Learning (2016)](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+- [MIT probabilistic systems analysis and applied probability (2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
+- [Introduction to probability - the science of uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+- [Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 
 ## Type theory
 - [Homotopy Type Theory (2014)](https://www.cs.cmu.edu/%7Erwh/courses/hott/)
