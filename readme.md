@@ -157,7 +157,7 @@ The number after the course name stands for the year in which the course was mad
 - [Machine learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos#readme)
 
 ## Computer Science
-- [MIT Structure and Interpretation of Programs (1986)](https://www.youtube.com/watch?v=2Op3QLzMgSY)
+- [MIT Structure and Interpretation of Programs (1986)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 - [Computational complexity (2008)](https://people.eecs.berkeley.edu/~luca/cs278-08/)
 - [MIT Mathematics for Computer Science (2010)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 - [The art of recursion (2012)](http://www.cis.upenn.edu/~cis39903/)
