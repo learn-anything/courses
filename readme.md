@@ -179,6 +179,9 @@ The number after the course name stands for the year in which the course was mad
 - [Stanford deep learning for natural language processing](http://cs224d.stanford.edu/syllabus.html)
 - [Stanford convolutional neural networks for visual recognition](http://cs231n.stanford.edu/syllabus.html)
 
+## Computer science
+- [MIT Structure and Interpretation of Programs (1986)](https://www.youtube.com/watch?v=2Op3QLzMgSY)
+
 ## Haskell
 - [Stanford functional systems in haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/)
 - [Introduction to haskell (2016)](http://www.seas.upenn.edu/%7Ecis194/spring13/)
