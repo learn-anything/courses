@@ -96,7 +96,8 @@ The number after the course name stands for the year in which the course was mad
 - [Algorithms specialisation](https://www.coursera.org/specializations/algorithms)
 
 ## Functional programming
-- [Course in functional programming by KTH](https://github.com/ID1019/functional-programming)
+- [Course in functional programming by KTH](https://github.com/ID1019/functional-programming#readme)
+- [Functional Programming Course](https://github.com/data61/fp-course#readme)
 
 ## Vim
 - [Vim valley](https://vimvalley.com/)
