@@ -8,7 +8,7 @@ Ensure your pull request adheres to the following guidelines:
 - If you want to add notes to a course, add it below the course as subdashed point.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
-- New categories or improvements to the existing categorisation are welcome.
+- New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
 
