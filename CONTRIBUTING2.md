@@ -1,4 +1,4 @@
-# Contribution Guidelines
+README.md# Contribution Guidelines
 Ensure your pull request adheres to the following guidelines:
 - Search included courses before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) (Year) - Description.`
