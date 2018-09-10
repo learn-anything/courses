@@ -156,6 +156,7 @@ The number after the course name stands for the year in which the course was mad
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Neural networks for machine learning](https://www.coursera.org/learn/neural-networks)
 - [Machine learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos#readme)
+- [Open Machine Learning Course](https://github.com/Yorko/mlcourse_open) with [articles](https://medium.com/open-machine-learning-course) on Medium
 
 ## Computer Science
 - [MIT Structure and Interpretation of Programs (1986)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
