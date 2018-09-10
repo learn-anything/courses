@@ -1,5 +1,5 @@
 # Awesome Courses [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 The number after the course name stands for the year in which the course was made in. All courses are put in their respective category and are sorted from oldest to newest. If no year was found for the course, it is put in the end of the list.
 
@@ -38,7 +38,7 @@ The number after the course name stands for the year in which the course was mad
 - [Stanford compiler construction (2016)](https://web.stanford.edu/class/cs143/)
 
 ## iOS
-- [Developing iOS 10 apps wth Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
+- [Developing iOS 10 apps with Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
 
 ## Investing
 - [Computational investing](https://www.coursera.org/learn/computational-investing)
@@ -217,7 +217,7 @@ The number after the course name stands for the year in which the course was mad
 - [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 
 ## Contributing
-See [contribution guidelines](contributing.md#readme).
+See [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
