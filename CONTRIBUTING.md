@@ -1,5 +1,7 @@
-README.md# Contribution Guidelines
+# Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included courses before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) (Year) - Description.`
 - If you can't find the year the course was made in, you can skip adding the year.
