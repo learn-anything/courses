@@ -82,7 +82,7 @@
 
 ## Computer Science
 
-  - [Lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+- [Lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 - [Computational complexity (2008)](https://people.eecs.berkeley.edu/~luca/cs278-08/)
 - [Computer science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - [Data structures](https://www.coursera.org/learn/data-structures)
@@ -112,7 +112,7 @@
 
 ## Deep Learning
 
-  - [Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
+- [Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [Berkeley deep reinforcement learning (2017)](http://rll.berkeley.edu/deeprlcourse/)
 - [Deep learning (2017)](http://deeplearning.cs.cmu.edu/)
 - [Deep learning at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
@@ -149,7 +149,7 @@
 
 ## Machine learning
 
-  - [Notes](https://github.com/1094401996/machine-learning-coursera)
+- [Notes](https://github.com/1094401996/machine-learning-coursera)
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Coursera machine learning](https://www.coursera.org/learn/machine-learning)
 - [Introduction to Deep Learning (2018)](http://introtodeeplearning.com/) - Introductory course on deep learning algorithms and their applications.
@@ -263,5 +263,5 @@
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
