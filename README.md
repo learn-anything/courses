@@ -165,6 +165,8 @@
 - [Statistical learning (2015)](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 - [Tensorflow for deep learning research (2017)](http://web.stanford.edu/class/cs20si/index.html)
 - [mlcourse.ai](http://mlcourse.ai) - Open Machine Learning course by OpenDataScience.
+- [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) - A machine learning specialization taught by Google that includes going through how Google does machine learning. It doesn't just stop at teaching machine learning, it goes through how to integrate ML with existing systems, and how to build production-ready machine learning models.
+- [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) -  Get hands-on experience optimizing, deploying, and scaling production ML models.
 
 ## Math
 
