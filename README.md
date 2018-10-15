@@ -1,14 +1,6 @@
 # Courses
 
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
-
----
-
-## Legend
-
-- 💰 - Paid
-- 🆓 - Free
 
 ---
 
@@ -90,15 +82,15 @@
 
 ## Computer Science
 
-- [Lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 - [Computational complexity (2008)](https://people.eecs.berkeley.edu/~luca/cs278-08/) 🆓
 - [Computer science 101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about) 🆓
 - [Data structures](https://www.coursera.org/learn/data-structures) 💰
 - [Great ideas in computer architecture (2015)](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/) 🆓
 - [Information retrieval (2013)](http://www.cs.cornell.edu/courses/cs4300/2013fa/) 🆓
+- [Lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
+- [MIT great ideas in theoretical computer science](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) 🆓
 - [MIT Mathematics for Computer Science (2010)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) 🆓
 - [MIT Structure and Interpretation of Programs (1986)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) 🆓
-- [MIT great ideas in theoretical computer science](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) 🆓
 - [Quantum Information Science II: Efficient Quantum Computing - fault tolerance and complexity (2018)](https://www.edx.org/course/efficient-quantum-computing-fault-tolerance-and-complexity) 🆓
 - [Software foundations (2014)](http://www.seas.upenn.edu/%7Ecis500/cis500-f14/index.html) 🆓
 - [The art of recursion (2012)](http://www.cis.upenn.edu/~cis39903/) 🆓
@@ -115,15 +107,15 @@
 
 ## Cryptography
 
-- [Stanford cryptography II (2017)](https://www.coursera.org/learn/crypto2) 💰
 - [Stanford cryptography I](https://www.coursera.org/learn/crypto) 💰
+- [Stanford cryptography II (2017)](https://www.coursera.org/learn/crypto2) 💰
 
 ## Deep Learning
 
-- [Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT) 🆓
 - [Berkeley deep reinforcement learning (2017)](http://rll.berkeley.edu/deeprlcourse/) 🆓
 - [Deep learning (2017)](http://deeplearning.cs.cmu.edu/) 🆓
 - [Deep learning at Oxford (2015)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) 🆓
+- [Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&feature=youtu.be&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT) 🆓
 - [Oxford cs deep nlp (2017)](https://github.com/oxford-cs-deepnlp-2017/lectures) 🆓
 - [Stanford convolutional neural networks for visual recognition](http://cs231n.stanford.edu/syllabus.html) 🆓
 - [Stanford deep learning for natural language processing](http://cs224d.stanford.edu/syllabus.html) 🆓
@@ -189,8 +181,8 @@
 
 ## Networking
 
-- [Introduction to EECS II: digital communication systems (2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm) 🆓
 - [Introduction to computer networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) 🆓
+- [Introduction to EECS II: digital communication systems (2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm) 🆓
 
 ## Neuroscience
 
@@ -215,13 +207,13 @@
 
 ## React
 
-- [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16) 🆓
-- [Complete intro to React v4 (2018)](https://btholt.github.io/complete-intro-to-react-v4/) 🆓
 - [Advanced React Patterns (2017)](https://github.com/kentcdodds/advanced-react-patterns) 🆓
 - [Beginner's guide to React (2017)](https://egghead.io/courses/the-beginner-s-guide-to-react) 🆓
-- [React Holiday (2017)](https://react.holiday/) - React through examples. 🆓
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) 🆓
 - [Building React Applications with Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) 🆓
+- [Complete intro to React v4 (2018)](https://btholt.github.io/complete-intro-to-react-v4/) 🆓
+- [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16) 🆓
+- [React Holiday (2017)](https://react.holiday/) - React through examples. 🆓
 
 ## Related
 
