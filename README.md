@@ -153,6 +153,7 @@
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) 🆓
 - [Coursera machine learning](https://www.coursera.org/learn/machine-learning) 💰
 - [Introduction to Deep Learning (2018)](http://introtodeeplearning.com/) - Introductory course on deep learning algorithms and their applications. 🆓
+- [Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html) - The course covers the most important practical foundations for modern machine learning. 🆓
 - [Introduction to matrix methods (2015)](http://stanford.edu/class/ee103/) 🆓
 - [Learning from data (2012)](https://work.caltech.edu/telecourse.html) 🆓
 - [Machine Learning Crash Course (2018)](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning. 🆓
