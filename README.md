@@ -209,7 +209,7 @@
 
 ## Decentralized systems
 
-- [MIT Decentralized Applications (2018)](http://nil.lcs.mit.edu/6.S974/papers.html)
+- [MIT Decentralized Applications (2018)](http://nil.lcs.mit.edu/6.S974/papers.html) 🆓
 
 ## React
 
