@@ -28,8 +28,8 @@
 - [Neuroscience](#neuroscience)
 - [Operating systems](#operating-systems)
 - [Programming](#programming)
+- [Decentralized systems](#decentralized-systems)
 - [React](#react)
-- [Related](#related)
 - [Rust](#rust)
 - [Scala](#scala)
 - [Security](#security)
@@ -39,6 +39,7 @@
 - [Vim](#vim)
 - [Web Development](#web-development)
 - [iOS](#ios)
+- [Related](#related)
 
 ---
 
@@ -206,6 +207,10 @@
 - [Structure and interpretation of computer programs (in Python) (2017)](https://cs61a.org/) 🆓
 - [Unix tools and scripting (2014)](http://www.cs.cornell.edu/courses/cs2043/2014sp/) 🆓
 
+## Decentralized systems
+
+- [MIT Decentralized Applications (2018)](http://nil.lcs.mit.edu/6.S974/papers.html)
+
 ## React
 
 - [Advanced React Patterns (2017)](https://github.com/kentcdodds/advanced-react-patterns) 🆓
@@ -215,14 +220,6 @@
 - [Complete intro to React v4 (2018)](https://btholt.github.io/complete-intro-to-react-v4/) 🆓
 - [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16) 🆓
 - [React Holiday (2017)](https://react.holiday/) - React through examples. 🆓
-
-## Related
-
-- [Awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme) 🆓
-- [Awesome courses](https://github.com/prakhar1989/awesome-courses#readme) 🆓
-- [CS video courses](https://github.com/Developer-Y/cs-video-courses#readme) 🆓
-- [Data science courses](https://github.com/DataScienceSpecialization/courses#readme) 🆓
-- [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning#readme) 🆓
 
 ## Rust
 
@@ -264,6 +261,14 @@
 ## iOS
 
 - [Developing iOS 10 apps with Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120) 🆓
+
+## Related
+
+- [Awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme) 🆓
+- [Awesome courses](https://github.com/prakhar1989/awesome-courses#readme) 🆓
+- [CS video courses](https://github.com/Developer-Y/cs-video-courses#readme) 🆓
+- [Data science courses](https://github.com/DataScienceSpecialization/courses#readme) 🆓
+- [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning#readme) 🆓
 
 ---
 
