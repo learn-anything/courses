@@ -1,6 +1,7 @@
 # Courses
 
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
 ---
 
@@ -9,26 +10,27 @@
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Business](#business)
-- [CSS](#css)
 - [Chemistry](#chemistry)
 - [Compilers](#compilers)
 - [Computer Science](#computer-science)
 - [Computer vision](#computer-vision)
 - [Cryptocurrency](#cryptocurrency)
 - [Cryptography](#cryptography)
+- [CSS](#css)
+- [Decentralized systems](#decentralized-systems)
 - [Deep Learning](#deep-learning)
 - [Discrete math](#discrete-math)
 - [Functional programming](#functional-programming)
 - [Game development](#game-development)
 - [Haskell](#haskell)
 - [Investing](#investing)
+- [iOS](#ios)
 - [Machine learning](#machine-learning)
 - [Math](#math)
 - [Networking](#networking)
 - [Neuroscience](#neuroscience)
 - [Operating systems](#operating-systems)
 - [Programming](#programming)
-- [Decentralized systems](#decentralized-systems)
 - [React](#react)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -38,7 +40,6 @@
 - [Type theory](#type-theory)
 - [Vim](#vim)
 - [Web Development](#web-development)
-- [iOS](#ios)
 - [Related](#related)
 
 ---
@@ -67,10 +68,6 @@
 ## Business
 
 - [Gamification](https://www.coursera.org/learn/gamification) 💰
-
-## CSS
-
-- [CSS Grid by Wes Bos](https://github.com/wesbos/css-grid) 🆓
 
 ## Chemistry
 
@@ -111,6 +108,14 @@
 - [Stanford cryptography I](https://www.coursera.org/learn/crypto) 💰
 - [Stanford cryptography II (2017)](https://www.coursera.org/learn/crypto2) 💰
 
+## CSS
+
+- [CSS Grid by Wes Bos](https://github.com/wesbos/css-grid) 🆓
+
+## Decentralized systems
+
+- [MIT Decentralized Applications (2018)](http://nil.lcs.mit.edu/6.S974/papers.html) 🆓
+
 ## Deep Learning
 
 - [Berkeley deep reinforcement learning (2017)](http://rll.berkeley.edu/deeprlcourse/) 🆓
@@ -147,6 +152,10 @@
 ## Investing
 
 - [Computational investing](https://www.coursera.org/learn/computational-investing) 💰
+
+## iOS
+
+- [Developing iOS 10 apps with Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120) 🆓
 
 ## Machine learning
 
@@ -207,10 +216,6 @@
 - [Structure and interpretation of computer programs (in Python) (2017)](https://cs61a.org/) 🆓
 - [Unix tools and scripting (2014)](http://www.cs.cornell.edu/courses/cs2043/2014sp/) 🆓
 
-## Decentralized systems
-
-- [MIT Decentralized Applications (2018)](http://nil.lcs.mit.edu/6.S974/papers.html) 🆓
-
 ## React
 
 - [Advanced React Patterns (2017)](https://github.com/kentcdodds/advanced-react-patterns) 🆓
@@ -257,10 +262,6 @@
 
 - [Cutting-edge web technologies (2015)](http://inst.eecs.berkeley.edu/%7Ecs294-101/sp15/) 🆓
 - [Interactive Flexbox course (2018)](https://scrimba.com/g/gflexbox) 🆓
-
-## iOS
-
-- [Developing iOS 10 apps with Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120) 🆓
 
 ## Related
 
