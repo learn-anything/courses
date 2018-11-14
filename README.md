@@ -29,6 +29,7 @@
 - [Math](#math)
 - [Networking](#networking)
 - [Neuroscience](#neuroscience)
+- [Natural Language Processing](#natural-language-processing)
 - [Operating systems](#operating-systems)
 - [Programming](#programming)
 - [React](#react)
@@ -198,6 +199,10 @@
 ## Neuroscience
 
 - [The Human Brain (2018)](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) 🆓
+
+## Natural Language Processing
+
+- [YSDA Natural Language Processing course (2018)](https://github.com/yandexdataschool/nlp_course) 🆓
 
 ## Operating systems
 
