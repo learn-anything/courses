@@ -225,6 +225,7 @@
 
 - [Advanced React Patterns (2017)](https://github.com/kentcdodds/advanced-react-patterns) 🆓
 - [Beginner's guide to React (2017)](https://egghead.io/courses/the-beginner-s-guide-to-react) 🆓
+- [Survive JS: React, From apprentice to master](https://survivejs.com/react/introduction/) 🆓
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) 🆓
 - [Building React Applications with Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) 🆓
 - [Complete intro to React v4 (2018)](https://btholt.github.io/complete-intro-to-react-v4/) 🆓
