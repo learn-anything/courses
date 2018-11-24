@@ -119,7 +119,7 @@
 
 ## Deep Learning
 
-- [Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) 🆓
 - [Berkeley deep reinforcement learning (2017)](http://rll.berkeley.edu/deeprlcourse/) 🆓
 - [Deep learning (2017)](http://deeplearning.cs.cmu.edu/) 🆓
 - [Stanford natural language processing with deep learning (2017)](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 🆓
