@@ -33,6 +33,7 @@
 - [Operating systems](#operating-systems)
 - [Programming](#programming)
 - [React](#react)
+- [ReasonML](#reasonml)
 - [Rust](#rust)
 - [Scala](#scala)
 - [Security](#security)
@@ -232,6 +233,10 @@
 - [Complete intro to React v4 (2018)](https://btholt.github.io/complete-intro-to-react-v4/) 🆓
 - [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16) 🆓
 - [React Holiday (2017)](https://react.holiday/) - React through examples. 🆓
+
+## ReasonML
+
+- [Get Started with Reason (2018)](https://egghead.io/courses/get-started-with-reason) 🆓
 
 ## Rust
 
