@@ -162,6 +162,7 @@
 
 ## Machine learning
 
+- [Amazon’s Machine Learning University course (2018)](https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/) 🆓
 - [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) - Get hands-on experience optimizing, deploying, and scaling production ML models. 💰
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) 🆓
 - [Coursera machine learning](https://www.coursera.org/learn/machine-learning) 💰
