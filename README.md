@@ -163,6 +163,7 @@
 
 ## Machine learning
 
+- [MIT Deep Learning (2019)](https://github.com/lexfridman/mit-deep-learning)
 - [Amazon’s Machine Learning University course (2018)](https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/) 🆓
 - [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) - Get hands-on experience optimizing, deploying, and scaling production ML models. 💰
 - [Artificial intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) 🆓
