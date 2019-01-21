@@ -224,6 +224,7 @@
 - [Stanford C Programming](https://www.youtube.com/playlist?list=PLjn3WmBeabPOUzxcCkzk4jYMGRZMZ6ylF&app=desktop) 🆓
 - [Structure and interpretation of computer programs (in Python) (2017)](https://cs61a.org/) 🆓
 - [Unix tools and scripting (2014)](http://www.cs.cornell.edu/courses/cs2043/2014sp/) 🆓
+- [Composing Programs](https://composingprograms.com/) - Free online introduction to programming and computer science.
 
 ## React
 
