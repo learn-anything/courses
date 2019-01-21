@@ -51,7 +51,7 @@
 
 - [Algorithmic thinking](https://www.coursera.org/learn/algorithmic-thinking-1) 💰
 - [Algorithms (2010)](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) - Taught by Manuel Blum who has a Turing Award due to his contributions to algorithms. 🆓
-- [Algorithms specialisation](https://www.coursera.org/specializations/algorithms)
+- [Algorithms specialization](https://www.coursera.org/specializations/algorithms)
 - [Algorithms: Part 1](https://www.coursera.org/learn/algorithms-part1/home/welcome) 🆓
 - [Algorithms: Part 2](https://www.coursera.org/learn/algorithms-part2) 🆓
 - [Data structures (2016)](http://datastructur.es/sp16/) 🆓
@@ -74,7 +74,7 @@
 
 ## Chemistry
 
-- [Bioinformatics specialisation](https://www.coursera.org/specializations/bioinformatics) 💰
+- [Bioinformatics specialization](https://www.coursera.org/specializations/bioinformatics) 💰
 
 ## Compilers
 
@@ -150,8 +150,8 @@
 
 - [Advanced Programming (2017)](https://www.seas.upenn.edu/~cis552/current/index.html) 🆓
 - [Haskell ITMO (2017)](https://github.com/jagajaga/FP-Course-ITMO) 🆓
-- [Introduction to haskell (2016)](http://www.seas.upenn.edu/%7Ecis194/spring13/) 🆓
-- [Stanford functional systems in haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/) 🆓
+- [Introduction to Haskell (2016)](http://www.seas.upenn.edu/%7Ecis194/spring13/) 🆓
+- [Stanford functional systems in Haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/) 🆓
 
 ## Investing
 
