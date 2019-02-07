@@ -87,7 +87,6 @@
 - [Data structures](https://www.coursera.org/learn/data-structures) 💰
 - [Great ideas in computer architecture (2015)](http://www-inst.eecs.berkeley.edu/%7Ecs61c/sp15/) 🆓
 - [Information retrieval (2013)](http://www.cs.cornell.edu/courses/cs4300/2013fa/) 🆓
-- [Lectures](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 - [MIT great ideas in theoretical computer science](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) 🆓
 - [MIT Mathematics for Computer Science (2010)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) 🆓
 - [MIT Structure and Interpretation of Programs (1986)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) 🆓
