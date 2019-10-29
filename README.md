@@ -42,8 +42,6 @@
 - [Web Development](#web-development)
 - [Related](#related)
 
----
-
 ## Algorithms
 
 - [Algorithmic thinking](https://www.coursera.org/learn/algorithmic-thinking-1) 💰
