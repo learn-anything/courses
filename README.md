@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Algorithms](#algorithms)
@@ -285,8 +283,6 @@
 - [CS video courses](https://github.com/Developer-Y/cs-video-courses#readme) 🆓
 - [Data science courses](https://github.com/DataScienceSpecialization/courses#readme) 🆓
 - [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning#readme) 🆓
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
