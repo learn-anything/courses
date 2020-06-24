@@ -1,8 +1,6 @@
-# Courses [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Courses [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
@@ -131,8 +129,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Functional programming
 
-- [Course in functional programming by KTH](https://github.com/ID1019/functional-programming#readme) 🆓
-- [Functional Programming Course](https://github.com/data61/fp-course#readme) 🆓
+- [Course in functional programming by KTH](https://github.com/ID1019/functional-programming) 🆓
+- [Functional Programming Course](https://github.com/data61/fp-course) 🆓
 - [Programming paradigms (2018)](http://www.cs.nott.ac.uk/~pszgmh/pgp.html) 🆓
 - [Functional Programming in OCaml (2019)](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 
@@ -168,7 +166,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Learning from data (2012)](https://work.caltech.edu/telecourse.html) 🆓
 - [Machine Learning Crash Course (2018)](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning. 🆓
 - [Machine learning for data science (2015)](http://www.cs.cornell.edu/courses/cs4786/2015sp/index.htm) 🆓
-- [Machine learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos#readme) 🆓
+- [Machine learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) 🆓
 - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) - Learn ML with Google Cloud. Real-world experimentation with end-to-end ML. 💰
 - [Mathematics of Deep Learning, NYU, Spring (2018)](https://joanbruna.github.io/MathsDL-spring18/) 🆓
 - [mlcourse.ai](http://mlcourse.ai) - Open Machine Learning course by OpenDataScience. 🆓
@@ -275,14 +273,13 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Related
 
-- [Awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme) 🆓
-- [Awesome courses](https://github.com/prakhar1989/awesome-courses#readme) 🆓
-- [CS video courses](https://github.com/Developer-Y/cs-video-courses#readme) 🆓
-- [Data science courses](https://github.com/DataScienceSpecialization/courses#readme) 🆓
-- [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning#readme) 🆓
+- [Awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) 🆓
+- [Awesome courses](https://github.com/prakhar1989/awesome-courses) 🆓
+- [CS video courses](https://github.com/Developer-Y/cs-video-courses) 🆓
+- [Data science courses](https://github.com/DataScienceSpecialization/courses) 🆓
+- [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) 🆓
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
