@@ -178,7 +178,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Math
 
-- [Abstract algebra (2014)](https://www.math.upenn.edu/~ted/371F14/math371.html) 🆓
+- [Abstract algebra (2019)](https://www.math.upenn.edu/~ted/502F19//math502.html) 🆓
 - [MIT linear algebra (2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 🆓
 - [MIT multivariable calculus (2007)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) 🆓
 - [MIT multivariable calculus by Prof. Denis Auroux](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) 🆓
