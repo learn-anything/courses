@@ -164,6 +164,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html) - The course covers the most important practical foundations for modern machine learning. 🆓
 - [Introduction to matrix methods (2015)](http://stanford.edu/class/ee103/) 🆓
 - [Learning from data (2012)](https://work.caltech.edu/telecourse.html) 🆓
+- [Machine Learning Complete Course](https://www.scaler.com/courses/machine-learning-course-training/)
 - [Machine Learning Crash Course (2018)](https://developers.google.com/machine-learning/crash-course/) - Google's fast-paced, practical introduction to machine learning. 🆓
 - [Machine learning for data science (2015)](http://www.cs.cornell.edu/courses/cs4786/2015sp/index.htm) 🆓
 - [Machine learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) 🆓
